@@ -1,4 +1,4 @@
-# INFO6105
+# BTC Analysis and Prediction
 Data Science Tools and Technologies
 
 Machine Learning is a useful tool for predicting trends in data. 
